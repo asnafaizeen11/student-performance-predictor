@@ -1,11 +1,22 @@
- Student Performance Predictor:
-This project predicts a student's academic performance based on various input factors like study hours, attendance, assignments submitted, sleep hours, and internet usage.
- Technologies Used:
-1.HTML, CSS, JavaScript for the web interface.
-2.Machine Learning Logic implemented via JavaScript for performance prediction.
-Features:
-1.Takes user input (daily study hours, attendance, etc.).
-2.Predicts performance level (e.g., Poor, Average, Good, Excellent).
-3.Fully interactive UI with professional styling.
-Project Type:
-Developed as part of a practical learning project during internship phase to apply core ML concepts in a real-world frontend application.
+Student Performance Predictor
+Overview
+This project is a full-stack web application that predicts student academic performance based on inputs such as study hours, sleep patterns, and attendance. It integrates machine learning logic into a responsive frontend interface.
+Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+Features
+- User-friendly interface for input  
+- Real-time prediction based on user data  
+- Responsive design  
+How it Works
+- User enters inputs such as study hours, sleep patterns, and attendance  
+- The system processes the input using predefined logic  
+- The application displays predicted academic performance instantly  
+Work Done
+- Built end-to-end application from prediction logic to frontend interface  
+- Integrated logic for real-time performance prediction  
+- Designed responsive UI for better user interaction  
+Conclusion
+This project demonstrates integration of frontend development with prediction logic, enabling real-time analysis and improving user interaction.
+Created by Asna Faizeen
